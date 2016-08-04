@@ -1,0 +1,35 @@
+_repo: Little-Rivers--A-Book-of-Essays-in-Profitable-Idleness_1562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2006-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Outdoor life'
+- !lcc 'PS'
+- !lcsh 'Fishing'
+- !lcsh 'American essays'
+- GITenberg
+tableOfContents: Prelude -- Little rivers -- A leaf of spearmint -- Ampersand -- A
+  handful of heather -- The ristigouche from a horse-yacht -- Alpenrosen and goat's
+  milk -- Au large -- Trout-fishing in the Traun -- At the sign of the balsam bough
+  -- A song after sundown -- The wood-notes of the veery.
+title: 'Little Rivers: A Book of Essays in Profitable Idleness'
+url: http://www.gutenberg.org/ebooks/1562
